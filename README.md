@@ -10,5 +10,7 @@
 
 - 资源同时同步区域：企业安全ES知识星球
 
+![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/ES_20190122144409.png)
+
 - Email：anyeduke@gmail.com
 

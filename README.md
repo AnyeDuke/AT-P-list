@@ -16,6 +16,10 @@
 
 ![部分企业安全攻防相关内容会直接放于知识星球](https://github.com/AnyeDuke/Enterprise-Security-Skill/blob/master/pic/ES_20190122144409.png)
 
+## 分类
+
+初步分成目录01_catalog和02_PDF两个部分，为了区分和[ESS](https://github.com/AnyeDuke/Enterprise-Security-Skill)专注点，这里的PDF仅限于攻防对抗
+
 
 ## 标签(也是目录导航)
 
